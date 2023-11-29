@@ -1,0 +1,9 @@
+*.bib
+*.png
+project-write-up.pdf
+*.txt
+read-bold.py
+.DS_Store
+.vscode
+
+
